@@ -1,0 +1,9 @@
+1º - $ git init     <!--cria pasta oculta ".git"-->
+2º -
+3º - $ git status     <!--relatório dos arquivos-->
+4º -
+5º - $ git add "arquivo.tipo do arquivo"     <!--adiciona arquivo ao controle de versões-->
+6º -
+7º - $ git add .     <!--adiciona todos os novos arquivos ao controle de versões-->
+8º - 
+9º - $ git commit -m "nome do commit"     <!--commit = arquivo modificado / -m = mensagem-->
