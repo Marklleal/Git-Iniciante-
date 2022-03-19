@@ -7,3 +7,5 @@
 7º - $ git add .     <!--adiciona todos os novos arquivos ao controle de versões-->
 8º - 
 9º - $ git commit -m "nome do commit"     <!--commit = arquivo modificado / -m = mensagem-->
+10º -
+11º - $ git push     <!--envia a versão do código para o repositório-->
