@@ -1,11 +1,23 @@
-1º - $ git init     <!--cria pasta oculta ".git"-->
+1º - $ git init     						 <!--cria pasta oculta ".git"-->
 2º -
-3º - $ git status     <!--relatório dos arquivos-->
+3º - $ git status    						 <!--relatório dos arquivos-->
 4º -
-5º - $ git add "arquivo.tipo do arquivo"     <!--adiciona arquivo ao controle de versões-->
+5º - $ git add "arquivo.tipo_do_arquivo"   			 <!--adiciona arquivo ao controle de versões-->
 6º -
-7º - $ git add .     <!--adiciona todos os novos arquivos ao controle de versões-->
+7º - $ git add .    						 <!--adiciona todos os novos arquivos ao controle de versões-->
 8º - 
-9º - $ git commit -m "nome do commit"     <!--commit = arquivo modificado / -m = mensagem-->
+9º - $ git commit -m "nome do commit"    			 <!--commit = arquivo modificado / -m = mensagem-->
 10º -
-11º - $ git push     <!--envia a versão do código para o repositório-->
+11º - $ git push     						 <!--envia a versão do código para o repositório-->
+12º -
+13º - $ git remote add <name> <url>    				 <!--linka o git com o repositório na nuvem-->
+14º -
+15º - $ git reflog    						 <!--mostra o histórico de versões enviadas a nuvem-->
+16º -
+17º - $ fit reset --hard <id>    				 <!--volta para uma versão antiga-->
+18º -
+19º - $ git branch   						 <!--mostra os branch's disponíveis no momento-->
+20º -              
+21º - $ git branch <name>					 <!--cria uma nova branch-->
+22º -
+23º - $ git branch checkout <branch_name>			 <!--muda de uma branch para outra-->
